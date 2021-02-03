@@ -1,0 +1,13 @@
+body{
+text-align: center;
+background-image:url(download.jpg);
+font-size: 60px;
+color:chartreuse;
+}
+img{
+transition: transform .2s;
+border: 10px solid #AAAAAA;
+}
+img :hover{
+transform: scale(0.9);
+}
